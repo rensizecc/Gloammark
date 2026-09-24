@@ -1,0 +1,7 @@
+node_modules
+dist
+release
+release-portable
+.DS_Store
+*.local
+*.tsbuildinfo
