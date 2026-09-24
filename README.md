@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://github.com/rensizecc/Gloammark/blob/main/assets/Gloammark.png?raw=true" alt="Gloammark" /></p>
 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=A%20visual%20README%20builder%20for%20developers." alt="A visual README builder for developers." /></p>
+
 <p align="center">
   <img alt="stars" src="https://img.shields.io/github/stars/rensizecc/Gloammark?style=flat&label=stars&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
   <img alt="forks" src="https://img.shields.io/github/forks/rensizecc/Gloammark?style=flat&label=forks&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
