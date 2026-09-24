@@ -2,7 +2,18 @@
 
 <p align="center"><img src="https://github.com/rensizecc/Gloammark/blob/main/assets/Gloammark.png?raw=true" alt="Gloammark" /></p>
 
-<p align="center"><img alt="stars" src="https://img.shields.io/github/stars/rensizecc/gloammark?style=flat&amp;label=stars&amp;color=18181b&amp;labelColor=27272a&amp;logoColor=ffffff" />&nbsp;&nbsp;<img alt="license" src="https://img.shields.io/github/forks/rensizecc/gloammark?style=flat&amp;label=license&amp;color=18181b&amp;labelColor=27272a&amp;logoColor=ffffff" />&nbsp;&nbsp;<img alt="issues" src="https://img.shields.io/github/issues/rensizecc/gloammark?style=flat&amp;label=issues&amp;color=18181b&amp;labelColor=27272a&amp;logoColor=ffffff" />&nbsp;&nbsp;<img alt="license" src="https://img.shields.io/github/license/rensizecc/gloammark?style=flat&amp;label=license&amp;color=18181b&amp;labelColor=27272a&amp;logoColor=ffffff" />&nbsp;&nbsp;<a href="https://github.com/rensizecc/gloammark/releases"><img alt="version" src="https://img.shields.io/badge/version-1.4.0-18181b?style=flat&amp;labelColor=27272a&amp;logoColor=ffffff" /></a>&nbsp;&nbsp;<a href="https://github.com/rensizecc/gloammark/releases"><img alt="platform" src="https://img.shields.io/badge/platform-Windows-18181b?style=flat&amp;labelColor=27272a&amp;logoColor=ffffff" /></a></p>
+<p align="center">
+  <img alt="stars" src="https://img.shields.io/github/stars/rensizecc/Gloammark?style=flat&label=stars&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
+  <img alt="forks" src="https://img.shields.io/github/forks/rensizecc/Gloammark?style=flat&label=forks&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
+  <img alt="issues" src="https://img.shields.io/github/issues/rensizecc/Gloammark?style=flat&label=issues&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
+  <img alt="license" src="https://img.shields.io/github/license/rensizecc/Gloammark?style=flat&label=license&color=18181b&labelColor=27272a&logoColor=ffffff" />&nbsp;&nbsp;
+  <a href="https://github.com/rensizecc/Gloammark/releases">
+    <img alt="version" src="https://img.shields.io/badge/version-1.4.0-18181b?style=flat&labelColor=27272a&logoColor=ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/rensizecc/Gloammark/releases">
+    <img alt="platform" src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-18181b?style=flat&labelColor=27272a&logoColor=ffffff" />
+  </a>
+</p>
 
 ## Table of Contents
 
