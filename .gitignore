@@ -5,3 +5,5 @@ release-portable
 .DS_Store
 *.local
 *.tsbuildinfo
+.env
+.env.*
